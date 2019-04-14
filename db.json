@@ -4,8 +4,7 @@
     "id_place": "1",
     "place_name": "مجموعه شهید چمران",
     "score": "4.5",
-    "score_counter": "۱۲۰",
-    "image_url": ["url1", "url2", "url3"]
+    "score_counter": "۱۲۰"
     
 
   }],
@@ -33,7 +32,7 @@
       "category_name": "فوتبال(چمن)"
 
     }
-  ],
-  "gallery_profile":["url1","url2","url3","url4"]
+  ]
+
 
 }
